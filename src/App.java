@@ -20,7 +20,7 @@ public class App {
 
        // System.out.println( number1); //Q7
 
-       System.out.println("The value of number1 is" + number1); // Q8
+       System.out.println("The value of number1 is " + number1); // Q8
        System.out.println("The value of number2 is " + number1); //Q9
 
         int multiplication; // Q10
