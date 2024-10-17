@@ -31,17 +31,17 @@ public class App {
 
         // for addition,
         int addition = number1 + number2;
-        System.out.println(number1 + "+" + number2 + "=" + addition);
+        System.out.println(number1 + " + " + number2 + " = " + addition);
         System.out.println(addition);
 
         // for division,
         double division = number1 / number2;
-        System.out.println(number1 + "/" + number2 + "=" + division);
+        System.out.println(number1 + " / " + number2 + " = " + division);
         System.out.println(division); 
 
         // for substraction,
         int substraction = number1 - number2;
-        System.out.println(number1 + "-" + number2 + "=" + substraction);
+        System.out.println(number1 + " - " + number2 + " = " + substraction);
         System.out.println(substraction); 
 
 
