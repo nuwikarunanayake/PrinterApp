@@ -18,7 +18,7 @@ public class App {
        int number1 = 5;
        int number2 = 2;
 
-       System.out.println( number1); //Q7
+       // System.out.println( number1); //Q7
 
        System.out.println("The value of number1 is" + number1); // Q8
        System.out.println("The value of number2 is " + number1); //Q9
