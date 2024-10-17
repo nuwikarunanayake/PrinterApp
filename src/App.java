@@ -50,14 +50,5 @@ public class App {
         System.out.println(number1 + " - " + number2 + " = " + substraction);
         System.out.println(substraction); 
 
-
-
-
-
-
-
-
-
-
     }
 }
