@@ -14,7 +14,7 @@ public class App {
        System.out.print("This App is made by: ");
        System.out.println(creator);
 
-       // Q6.Declare two numeric variables 
+       // Q6.Declare two numeric variables, 
        int number1 = 5;
        int number2 = 2;
 
@@ -34,12 +34,12 @@ public class App {
         System.out.println(number1 + "+" + number2 + "=" + addition);
         System.out.println(addition);
 
-
+        // for division,
         double division = number1 / number2;
         System.out.println(number1 + "/" + number2 + "=" + division);
         System.out.println(division); 
 
-
+        // for substraction,
         int substraction = number1 - number2;
         System.out.println(number1 + "-" + number2 + "=" + substraction);
         System.out.println(substraction); 
